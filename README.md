@@ -82,3 +82,10 @@ pytest tests/ -v
 Google Gemini is the LLM reasoning core. Cursor was used for code generation
 during development.
 
+
+## Authors
+
+Developed together at the Lebanese University by:
+
+- Hadi Karaky ([@hadikaraky](https://github.com/hadikaraky))
+- Ali Akar ([@AliAkar-Eng](https://github.com/AliAkar-Eng))
